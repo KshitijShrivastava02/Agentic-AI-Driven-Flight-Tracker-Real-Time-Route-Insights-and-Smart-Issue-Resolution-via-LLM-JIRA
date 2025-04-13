@@ -2,7 +2,6 @@
 
 This project is a powerful AI-integrated flight tracking application built using **Streamlit**, **Folium**, **LLMs (GROQ's LLaMA3)**, and **JIRA**. It visualizes a real-time animated flight journey from Indore to Hyderabad and provides smart, contextual information about locations en route. Additionally, it allows passengers to submit complaints, which are responded to using an LLM and logged directly into a JIRA board.
 
-## Video Testimonial link : https://drive.google.com/drive/folders/1_HQoN6fj4xxjvpwaPZDH5tppjeIrTIDl?usp=sharing
 ---
 ![image](https://github.com/user-attachments/assets/a3034d9c-45bd-4bc1-8d49-0e1eb865bedb)
 ![image](https://github.com/user-attachments/assets/c2a2e18f-9543-4062-b1ef-3bbe519c04b7)
